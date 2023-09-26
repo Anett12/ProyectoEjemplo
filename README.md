@@ -5,5 +5,5 @@ Author : Anett Ariana Ramirez
 
 mas lineas
 
-# Documentacion 2 (Dev2)
-documentacion de desarrollador 2
+# Documentacion 1  (Dev1)
+documentacion de desarrollador 1
